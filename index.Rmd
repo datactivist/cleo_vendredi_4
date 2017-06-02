@@ -30,6 +30,9 @@ background-position: 50% 50%
 </BR>
 
 ### Joël Gombin
+
+### datactivi.st/cleo_vendredi_4
+
 <img src="./img/Logo_DATACTIVIST_TW.png" height="100px" />
 
 .right[.footnote[<a href='https://commons.wikimedia.org/wiki/File%3ASeurat-Gravelines-Annonciade.jpg'>source</a>]]
